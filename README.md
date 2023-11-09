@@ -1,2 +1,2 @@
 # pythonprojone
-Sales Inventory - This is my Bootcamp project
+Sales Inventory - This is my Bootcamp individual project
